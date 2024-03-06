@@ -29,7 +29,7 @@ X-Auth-Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9:admin
 Content-Type : application/json
 
 
-POST : https://<server>api/v1/Card
+POST : https://servername/api/v1/Card
 Body : 
 {
   "cardNumber": "426132561238626",
@@ -37,10 +37,10 @@ Body :
 }
 
 
-GET : https://<server>/api/v1/card?cardNumber=426132561238626
+GET : https://servername/api/v1/card?cardNumber=426132561238626
 
 
-PUT : https://localhost:44388/api/v1/Card
+PUT : https://servername/api/v1/Card
 
 Body :
 {
