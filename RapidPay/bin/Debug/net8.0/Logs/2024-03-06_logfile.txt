@@ -1,0 +1,2 @@
+2024-03-06 12:49:36.9193 ERROR The card  already exists in the system
+2024-03-06 12:50:58.5615 ERROR The card  already exists in the system
