@@ -10,7 +10,7 @@ namespace RapidPay.DTOs
         public string cardNumber { get; set; }
 
         [Required]
-        [RegularExpression(@"^\d+(\.\d{1,2})?$", ErrorMessage = "Invalid amount format")]
+        [RegularExpression(@"^\d+(\.\d{1,2})?$", ErrorMessage = "Invalid amount format, please ensure it has a maximum of two decimals")]
         public decimal amount { get; set; }
     }
 }

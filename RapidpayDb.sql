@@ -1,5 +1,9 @@
-CREATE DATABASE [RapidPay]
+IF NOT EXISTS (select name From master.dbo.sysdatabases WHERE name = N'RapidPay')
+BEGIN
+	CREATE DATABASE RapidPay
+END
 GO
+
 
 USE RapidPay
 GO
@@ -22,7 +26,7 @@ CREATE TABLE dbo.transactions
  id INT IDENTITY(1,1) PRIMARY KEY,
  cardId INT NOT NULL,
  transactionAmount DECIMAL(18, 2) NOT NULL,
- transactionFee DECIMAL(2,2) NOT NULL,
+ transactionFee DECIMAL(4,2) NOT NULL,
  dateCreated DATETIME NOT NULL default getdate(),
  CONSTRAINT FK_cardId FOREIGN KEY (cardId) REFERENCES dbo.cards(id)
  )
