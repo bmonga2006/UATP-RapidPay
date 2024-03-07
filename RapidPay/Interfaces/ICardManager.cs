@@ -1,6 +1,4 @@
-﻿
-
-using RapidPay.DTOs;
+﻿using RapidPay.DTOs;
 using RapidPay.Models;
 
 namespace RapidPay.Interface

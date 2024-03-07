@@ -1,5 +1,4 @@
-﻿
-using RapidPay.DTOs;
+﻿using RapidPay.DTOs;
 using RapidPay.Helpers;
 using RapidPay.Models;
 

@@ -1,12 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using RapidPay.Business;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using RapidPay.Managers;
 
 namespace RapidPay.Controllers
 {
-    [Route("api/v1/[controller]")]
+    [Route("api/v1/[controller]")]   
     [ApiController]
+    [Authorize]
     public class PaymentFeeController : ControllerBase
     {
         private readonly PaymentFeeManager PaymentFeeManager;

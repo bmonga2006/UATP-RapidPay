@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\controllers\\paymentfeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\controllers\\paymentfeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\interfaces\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\modules\\paymentfeemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\modules\\paymentfeemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\modules\\swaggermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\modules\\swaggermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\managers\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\managers\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\managers\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\managers\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\managers\\paymentfeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\managers\\paymentfeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\mappers\\cardmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\mappers\\cardmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\modules\\cardmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\modules\\cardmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\modules\\logmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\modules\\logmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\modules\\dbcontextmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\modules\\dbcontextmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\interfaces\\icardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\interfaces\\icardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\helpers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\helpers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\dtos\\updatecarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\dtos\\updatecarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\dtos\\errortdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\dtos\\errortdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|c:\\users\\bhawna monga\\desktop\\git\\uatp-rapidpay\\rapidpay\\authentication\\xauthtokenauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF92154-EC1C-4145-819A-6B2D466B91ED}|RapidPay\\RapidPay.csproj|solutionrelative:rapidpay\\authentication\\xauthtokenauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentFeeModule.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\PaymentFeeModule.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Modules\\PaymentFeeModule.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\PaymentFeeModule.cs",
+              "RelativeToolTip": "RapidPay\\Modules\\PaymentFeeModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:29.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogModule.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\LogModule.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Modules\\LogModule.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\LogModule.cs",
+              "RelativeToolTip": "RapidPay\\Modules\\LogModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:28.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardModule.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\CardModule.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Modules\\CardModule.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\CardModule.cs",
+              "RelativeToolTip": "RapidPay\\Modules\\CardModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:25.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Models\\Transaction.cs",
+              "RelativeToolTip": "RapidPay\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:22.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Models\\Card.cs",
+              "RelativeToolTip": "RapidPay\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:20.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Mappers\\CardMappers.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Mappers\\CardMappers.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Mappers\\CardMappers.cs",
+              "RelativeToolTip": "RapidPay\\Mappers\\CardMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:13.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentFeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\PaymentFeeManager.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Managers\\PaymentFeeManager.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\PaymentFeeManager.cs",
+              "RelativeToolTip": "RapidPay\\Managers\\PaymentFeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:53.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Managers\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\LoggerManager.cs",
+              "RelativeToolTip": "RapidPay\\Managers\\LoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\CardManager.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Managers\\CardManager.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Managers\\CardManager.cs",
+              "RelativeToolTip": "RapidPay\\Managers\\CardManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:36.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Interfaces\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Interfaces\\ILoggerManager.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Interfaces\\ILoggerManager.cs",
+              "RelativeToolTip": "RapidPay\\Interfaces\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentFeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Controllers\\PaymentFeeController.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Controllers\\PaymentFeeController.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Controllers\\PaymentFeeController.cs*",
+              "RelativeToolTip": "RapidPay\\Controllers\\PaymentFeeController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:27.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Controllers\\CardController.cs",
+              "RelativeToolTip": "RapidPay\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwaggerModule.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\SwaggerModule.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Modules\\SwaggerModule.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\SwaggerModule.cs",
+              "RelativeToolTip": "RapidPay\\Modules\\SwaggerModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\appsettings.json",
+              "RelativeDocumentMoniker": "RapidPay\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\appsettings.json",
+              "RelativeToolTip": "RapidPay\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T18:06:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBContextModule.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\DBContextModule.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Modules\\DBContextModule.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Modules\\DBContextModule.cs",
+              "RelativeToolTip": "RapidPay\\Modules\\DBContextModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:54:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICardManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Interfaces\\ICardManager.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Interfaces\\ICardManager.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Interfaces\\ICardManager.cs",
+              "RelativeToolTip": "RapidPay\\Interfaces\\ICardManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:08.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Helpers\\Encryption.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Helpers\\Encryption.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Helpers\\Encryption.cs",
+              "RelativeToolTip": "RapidPay\\Helpers\\Encryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:06.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "RapidPay\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\UpdateCardDto.cs",
+              "RelativeDocumentMoniker": "RapidPay\\DTOs\\UpdateCardDto.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\UpdateCardDto.cs",
+              "RelativeToolTip": "RapidPay\\DTOs\\UpdateCardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:53:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrortDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\ErrortDetailsDto.cs",
+              "RelativeDocumentMoniker": "RapidPay\\DTOs\\ErrortDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\ErrortDetailsDto.cs",
+              "RelativeToolTip": "RapidPay\\DTOs\\ErrortDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\CardDto.cs",
+              "RelativeDocumentMoniker": "RapidPay\\DTOs\\CardDto.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\DTOs\\CardDto.cs",
+              "RelativeToolTip": "RapidPay\\DTOs\\CardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "RapidPay\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:52.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XAuthTokenAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Authentication\\XAuthTokenAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "RapidPay\\Authentication\\XAuthTokenAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Bhawna Monga\\Desktop\\Git\\UATP-RapidPay\\RapidPay\\Authentication\\XAuthTokenAuthenticationHandler.cs",
+              "RelativeToolTip": "RapidPay\\Authentication\\XAuthTokenAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:51:52.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

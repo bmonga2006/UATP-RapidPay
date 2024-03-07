@@ -6,7 +6,6 @@ namespace RapidPay.Models
     public class Transaction
     {
         public int Id { get; set; }
-
         public int cardId { get; set; }
         public decimal transactionFee { get; set; }
         public decimal transactionAmount { get; set; }

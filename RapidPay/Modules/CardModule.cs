@@ -1,4 +1,4 @@
-﻿using RapidPay.Business;
+﻿using RapidPay.Managers;
 using RapidPay.Interface;
 
 namespace RapidPay.Modules
@@ -7,7 +7,6 @@ namespace RapidPay.Modules
     {
         public static IServiceCollection RegisterCardModule(this IServiceCollection services)
         {
-            
             services.AddScoped<ICardManager, CardManager>();
             return services;
         }

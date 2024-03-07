@@ -10,7 +10,7 @@ using RapidPay.Interfaces;
 using Microsoft.AspNetCore.Authentication;
 using RapidPay.Authentication;
 using Microsoft.OpenApi.Models;
-using RapidPay.Business;
+using RapidPay.Managers;
 
 var builder = WebApplication.CreateBuilder(args);
 

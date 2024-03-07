@@ -1,12 +1,9 @@
 ﻿using Microsoft.OpenApi.Models;
-using RapidPay.Business;
-using RapidPay.Interface;
 
 namespace RapidPay.Modules
 {
     public  static class SwaggerModule
     {
-
         public static IServiceCollection RegisterSwaggerModule(this IServiceCollection services)
         {
 

@@ -1,14 +1,11 @@
-﻿
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using RapidPay.Data;
 using RapidPay.DTOs;
 using RapidPay.Helpers;
 using RapidPay.Interface;
 using RapidPay.Models;
-using System.Collections.Generic;
 
-namespace RapidPay.Business
+namespace RapidPay.Managers
 {
     public class CardManager : ICardManager
     {

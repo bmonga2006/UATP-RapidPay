@@ -1,13 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RapidPay.Business;
+using RapidPay.Managers;
 using RapidPay.Interface;
 using RapidPay.DTOs;
 using RapidPay.Mappers;
 using RapidPay.Interfaces;
 using Microsoft.AspNetCore.Authorization;
-using System.Data;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace RapidPay.Controllers
 {
