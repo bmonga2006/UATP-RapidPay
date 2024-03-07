@@ -21,15 +21,16 @@ Additional details :
 2) I am saving the card in encrypted form in DB. Again, for scope of the ticket, the keys are hard coded in the program, which will not be true for an ideal scenario
 3) I did not create additional class libraries for each layer, but that should be created to separate the conerns for each layer. I am using folder structure to do that here.
 
-You can use in-build swagger to test the API, but here are some valid requets :
+Testing APIs
+You can use in-build swagger to test the API or Choose your own app, Here are some valid requets :
 
 
 Headers : stays same for all 
-X-Auth-Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9:admin
+X-Auth-Token : **eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9:Admin**
 Content-Type : application/json
 
 
-POST : https://servername/api/v1/Card
+POST : https://servername/api/v1/Card   : This will create a card, saves the ecrypted card number in Db and also returns the encrypted card number
 Body : 
 {
   "cardNumber": "426132561238626",
@@ -40,7 +41,7 @@ Body :
 GET : https://servername/api/v1/card?cardNumber=426132561238626
 
 
-PUT : https://servername/api/v1/Card
+PUT : https://servername/api/v1/Card    : **This requires authorization of user role as Admin. So, make sure your user role is Admin(case-sensitive) in the Auth token**
 
 Body :
 {
