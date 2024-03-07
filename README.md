@@ -45,7 +45,7 @@ PUT : https://<your servername>/api/v1/Card
 Body :
 {
   "cardNumber": "426132561238626",
-  "amount": "200.1"
+  "amount": "200.15"
 }
 
 **Payment FEE Module :** 
